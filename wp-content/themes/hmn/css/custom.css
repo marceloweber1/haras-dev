@@ -1,0 +1,27 @@
+@media screen and (max-width: 1023px) {
+	.row-menu{
+		position: relative;
+		min-height: 50px;
+	}
+	
+	.hamburger{
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+	
+	.menu-pesquisa{
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
+	
+	.menu-opcoes{
+		margin-top: 50px;
+	}
+	
+	.container-busca{
+		margin-left: 0 !important;
+	}
+	
+}

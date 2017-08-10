@@ -1,0 +1,1129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: marchador2ezplugin\n"
+"POT-Creation-Date: 2016-03-17 09:43-0300\n"
+"PO-Revision-Date: 2016-03-17 09:44-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: acf/cpt-cavalo.php:9
+msgid "Horse Fields"
+msgstr "Campos dos Cavalos"
+
+#: acf/cpt-cavalo.php:13
+msgid "INFORMATION"
+msgstr "INFORMAÇÕES"
+
+#: acf/cpt-cavalo.php:29 acf/cpt-cavalo.php:907 cpt/cavalo.php:176
+msgid "Gender"
+msgstr "Gênero"
+
+#: acf/cpt-cavalo.php:43
+msgid "Colt"
+msgstr "Potro"
+
+#: acf/cpt-cavalo.php:44
+msgid "Horse/Stallion"
+msgstr "Cavalo/Garanhão"
+
+#: acf/cpt-cavalo.php:45
+msgid "Filly"
+msgstr "Potra"
+
+#: acf/cpt-cavalo.php:46
+msgid "Mare"
+msgstr "Égua"
+
+#: acf/cpt-cavalo.php:47
+msgid "Gelding"
+msgstr "Castrado"
+
+#: acf/cpt-cavalo.php:62 acf/cpt-cavalo.php:908 cpt/cavalo.php:179
+msgid "Birth Date"
+msgstr "Data de Nascimento"
+
+#: acf/cpt-cavalo.php:80 acf/cpt-cavalo.php:909 cpt/cavalo.php:183
+msgid "Color"
+msgstr "Pelagem"
+
+#: acf/cpt-cavalo.php:163
+msgid "Association Number"
+msgstr "Número de Registro"
+
+#: acf/cpt-cavalo.php:184 cpt/cavalo.php:200
+msgid "Chip No."
+msgstr "No. Chip"
+
+#: acf/cpt-cavalo.php:206 acf/cpt-cavalo.php:913
+msgid "Book"
+msgstr "Livro"
+
+#: acf/cpt-cavalo.php:228 acf/cpt-cavalo.php:914 cpt/cavalo.php:204
+msgid "DNA Exam"
+msgstr "Exame de DNA"
+
+#: acf/cpt-cavalo.php:242
+msgid "Yes"
+msgstr "Sim"
+
+#: acf/cpt-cavalo.php:243
+msgid "No"
+msgstr "Não"
+
+#: acf/cpt-cavalo.php:258 acf/cpt-cavalo.php:915 cpt/cavalo.php:208
+msgid "Type of Gait"
+msgstr "Tipo de Marcha"
+
+#: acf/cpt-cavalo.php:272
+msgid "Hit"
+msgstr "Batida"
+
+#: acf/cpt-cavalo.php:273
+msgid "Chopped"
+msgstr "Picada"
+
+#: acf/cpt-cavalo.php:288 acf/cpt-cavalo.php:910 cpt/cavalo.php:186
+msgid "Height (hands)"
+msgstr "Altura (metros)"
+
+#: acf/cpt-cavalo.php:310 acf/cpt-cavalo.php:916 cpt/cavalo.php:222
+msgid "Animal Use"
+msgstr "Uso do Animal"
+
+#: acf/cpt-cavalo.php:324
+msgid "Cavalcade"
+msgstr "Cavalgada"
+
+#: acf/cpt-cavalo.php:325
+msgid "Ride"
+msgstr "Passeio"
+
+#: acf/cpt-cavalo.php:326
+msgid "Work on farm/cattle"
+msgstr "Lida na fazenda/gado"
+
+#: acf/cpt-cavalo.php:327
+msgid "Marching contest"
+msgstr "Concurso de marcha"
+
+#: acf/cpt-cavalo.php:328
+msgid "Breed exposition"
+msgstr "Exposições da raça"
+
+#: acf/cpt-cavalo.php:329
+msgid "Enduro"
+msgstr "Enduro"
+
+#: acf/cpt-cavalo.php:330
+msgid "Horsemanship"
+msgstr "Equitação"
+
+#: acf/cpt-cavalo.php:331
+msgid "Reproduction"
+msgstr "Reprodução"
+
+#: acf/cpt-cavalo.php:346 acf/cpt-cavalo.php:917 cpt/cavalo.php:226
+msgid "Temperament"
+msgstr "Temperamento"
+
+#: acf/cpt-cavalo.php:360
+msgid "Calmer"
+msgstr "Mais Calmo"
+
+#: acf/cpt-cavalo.php:361
+msgid "Calm"
+msgstr "Calmo"
+
+#: acf/cpt-cavalo.php:362
+msgid "Racial standard"
+msgstr "Padrão da Raça"
+
+#: acf/cpt-cavalo.php:363
+msgid "Angry"
+msgstr "Agitado"
+
+#: acf/cpt-cavalo.php:364
+msgid "Angrier"
+msgstr "Mais Agitado"
+
+#: acf/cpt-cavalo.php:379
+msgid "Categories"
+msgstr "Categorias"
+
+#: acf/cpt-cavalo.php:400
+msgid "Show ribbon from"
+msgstr "Exibir selo de"
+
+#: acf/cpt-cavalo.php:424
+msgid "Ribbon side"
+msgstr "Lado do selo"
+
+#: acf/cpt-cavalo.php:436
+msgid "Left"
+msgstr "Esquerdo"
+
+#: acf/cpt-cavalo.php:437
+msgid "Right"
+msgstr "Direito"
+
+#: acf/cpt-cavalo.php:446
+msgid "DESCRIPTION"
+msgstr "DESCRIÇÃO"
+
+#: acf/cpt-cavalo.php:462
+msgid "Animal Text"
+msgstr "Descrição do Animal"
+
+#: acf/cpt-cavalo.php:484
+msgid "BREEDER/OWNER(S)"
+msgstr "CRIADORES/PROPRIETÁRIOS"
+
+#: acf/cpt-cavalo.php:500 acf/cpt-cavalo.php:918 cpt/cavalo.php:230
+msgid "Breeder"
+msgstr "Criador"
+
+#: acf/cpt-cavalo.php:523 acf/cpt-cavalo.php:919 cpt/cavalo.php:234
+msgid "Owner"
+msgstr "Proprietário"
+
+#: acf/cpt-cavalo.php:546
+msgid "Owner percentage"
+msgstr "Porcentagem (%) do Proprietário"
+
+#: acf/cpt-cavalo.php:568
+msgid "AWARDS"
+msgstr "PREMIAÇÕES"
+
+#: acf/cpt-cavalo.php:599 acf/cpt-cavalo.php:802 acf/cpt-criador.php:161
+msgid "Add"
+msgstr "Adicionar"
+
+#: acf/cpt-cavalo.php:603
+msgid "Display on site"
+msgstr "Exibir no site"
+
+#: acf/cpt-cavalo.php:620 cpt/evento.php:8
+msgid "Event"
+msgstr "Evento"
+
+#: acf/cpt-cavalo.php:642
+msgid "City"
+msgstr "Cidade"
+
+#: acf/cpt-cavalo.php:664
+msgid "Date"
+msgstr "Período"
+
+#: acf/cpt-cavalo.php:686
+msgid "Award"
+msgstr "Prêmio"
+
+#: acf/cpt-cavalo.php:708
+msgid "Number of participating animals"
+msgstr "Número de animais julgados"
+
+#: acf/cpt-cavalo.php:734 acf/cpt-evento.php:52
+msgid "MEDIA"
+msgstr "MÍDIAS"
+
+#: acf/cpt-cavalo.php:750 acf/cpt-evento.php:68
+msgid "Gallery"
+msgstr "Galeria"
+
+#: acf/cpt-cavalo.php:769
+msgid "Videos"
+msgstr "Vídeos"
+
+#: acf/cpt-cavalo.php:783
+msgid "Video URL"
+msgstr "URL do vídeo"
+
+#: acf/cpt-cavalo.php:787
+msgid "Only Youtube video Url. Ex. https://www.youtube.com/watch?v=HjhNlqE5N34"
+msgstr "Somente link do Youtube. Ex. https://www.youtube.com/watch?v=HjhNlqE5N34"
+
+#: acf/cpt-cavalo.php:806
+msgid "GENEALOGY"
+msgstr "GENEALOGIA"
+
+#: acf/cpt-cavalo.php:877
+msgid "Show this info"
+msgstr "Exibir estas informações"
+
+#: acf/cpt-cavalo.php:878
+msgid "Show info info"
+msgstr "Exibir estas informações"
+
+#: acf/cpt-cavalo.php:890
+msgid "Horse information"
+msgstr "Informações do cavalo"
+
+#: acf/cpt-cavalo.php:894
+msgid "Show informations on website"
+msgstr "Exibir informações no website"
+
+#: acf/cpt-cavalo.php:911 acf/cpt-criador.php:146
+msgid "Associations"
+msgstr "Associações"
+
+#: acf/cpt-cavalo.php:912
+msgid "Chip"
+msgstr "Chip"
+
+#: acf/cpt-cavalo.php:920
+msgid "Description"
+msgstr "Descrição"
+
+#: acf/cpt-criador.php:10
+msgid "Breeder/Owners Fields"
+msgstr "Campos de Criadores/Proprietários"
+
+#: acf/cpt-criador.php:14
+msgid "Name"
+msgstr "Nome"
+
+#: acf/cpt-criador.php:36
+msgid "Email"
+msgstr "Email"
+
+#: acf/cpt-criador.php:58
+msgid "Address"
+msgstr "Endereço"
+
+#: acf/cpt-criador.php:80
+msgid "State"
+msgstr "Estado"
+
+#: acf/cpt-criador.php:102
+msgid "Country"
+msgstr "País"
+
+#: acf/cpt-criador.php:124
+msgid "Name of Farm/Business"
+msgstr "Nome do haras/fazenda"
+
+#: acf/cpt-criador.php:165
+msgid "Association"
+msgstr "Associação"
+
+#: acf/cpt-criador.php:196
+msgid "No. Member"
+msgstr "No. do Associado"
+
+#: acf/cpt-evento.php:10
+msgid "Item Fields"
+msgstr "Campos"
+
+#: acf/cpt-evento.php:14
+msgid "CONTENT"
+msgstr "CONTEÚDO"
+
+#: acf/cpt-evento.php:87
+msgid "Video Url"
+msgstr "URL do Vídeo"
+
+#: acf/cpt-evento.php:91
+msgid "Only Youtube video Url."
+msgstr "Somente vídeos com endereço do Youtube."
+
+#: acf/cpt-parceiro.php:16
+msgid "Dados Partners"
+msgstr "Parceiros"
+
+#: acf/cpt-parceiro.php:20
+msgid "Link"
+msgstr "Link"
+
+#: acf/cpt-selo.php:9
+msgid "Ribbons Fields"
+msgstr "Campos dos Selos"
+
+#: acf/cpt-selo.php:13
+msgid "Image (Left)"
+msgstr "Imagem (Esquerda)"
+
+#: acf/cpt-selo.php:31
+msgid "Image (Right)"
+msgstr "Imagem (Direita)"
+
+#: acf/page-galeria-fotos.php:11
+msgid "Photo Gallery Fields"
+msgstr "Campos da Galeria de Fotos"
+
+#: acf/page-galeria-fotos.php:15
+msgid "Gallery Name"
+msgstr "Nome da Galeria"
+
+#: acf/page-galeria-fotos.php:37
+msgid "Images"
+msgstr "Imagens"
+
+#: configs.php:159
+msgid "Published"
+msgstr "Publicado"
+
+#: cpt/cavalo.php:7
+msgid "Horses"
+msgstr "Cavalos"
+
+#: cpt/cavalo.php:8
+msgid "Horse"
+msgstr "Cavalo"
+
+#: cpt/cavalo.php:9
+msgid "View horses"
+msgstr "Visualizar cavalos"
+
+#: cpt/cavalo.php:28
+msgid "Horses categories"
+msgstr "Categorias de cavalos"
+
+#: cpt/cavalo.php:29
+msgid "Horses category "
+msgstr "Categoria de cavalo"
+
+#: cpt/cavalo.php:30
+msgid "View categories"
+msgstr "Visualizar categorias"
+
+#: cpt/cavalo.php:47 cpt/cavalo.php:98
+msgid "Parents"
+msgstr "Pais"
+
+#: cpt/cavalo.php:52
+#, php-format
+msgid "Parents <span class=\"count\">(%s)</span>"
+msgstr "Pais <span class=\"count\">(%s)</span>"
+
+#: cpt/cavalo.php:99
+msgid "Animal Name"
+msgstr "Nome do animal"
+
+#: cpt/cavalo.php:194
+#, php-format
+msgid "No. %s"
+msgstr "Número %s"
+
+#: cpt/clipping.php:7 cpt/clipping.php:8
+msgid "News"
+msgstr "Notícias"
+
+#: cpt/clipping.php:9
+msgid "View news"
+msgstr "Visualizar notícias"
+
+#: cpt/clipping.php:28
+msgid "News categories"
+msgstr "Categorias de notícias"
+
+#: cpt/clipping.php:29
+msgid "News category "
+msgstr "Categoria de notícia"
+
+#: cpt/clipping.php:30
+msgid "View news categories"
+msgstr "Visualizar categorias de notícias"
+
+#: cpt/clipping.php:77
+msgid "News Title"
+msgstr "Título da Notícia"
+
+#: cpt/criador.php:8
+msgid "Breeders/Owners"
+msgstr "Criador/Proprietário"
+
+#: cpt/criador.php:9
+msgid "Breeder/Owner"
+msgstr "Criador/Proprietário"
+
+#: cpt/criador.php:10
+msgid "View breeders/owners"
+msgstr "Visualizar criadores/propri."
+
+#: cpt/criador.php:11
+msgid " Breeders/Owners "
+msgstr " Criador/Propri."
+
+#: cpt/criador.php:47
+msgid "Breeder/Owner "
+msgstr "Criador/Proprietário"
+
+#: cpt/evento.php:7
+msgid "Events"
+msgstr "Eventos"
+
+#: cpt/evento.php:9
+msgid "View events"
+msgstr "Visualizar eventos"
+
+#: cpt/evento.php:28
+msgid "Regions"
+msgstr "Regiões"
+
+#: cpt/evento.php:29
+msgid "Region"
+msgstr "Região"
+
+#: cpt/evento.php:30
+msgid "View regions"
+msgstr "Ver regiões"
+
+#: cpt/evento.php:76
+msgid "Event Name"
+msgstr "Nome do Evento"
+
+#: cpt/parceiro.php:12
+msgid "Partners"
+msgstr "Parceiros"
+
+#: cpt/parceiro.php:13 cpt/parceiro.php:44
+msgid "Partner"
+msgstr "Parceiro"
+
+#: cpt/parceiro.php:14
+msgid "View partner"
+msgstr "Visualizar parceiros"
+
+#: cpt/selo.php:7
+msgid "Ribbons"
+msgstr "Selos"
+
+#: cpt/selo.php:8
+msgid "Ribbon"
+msgstr "Selo"
+
+#: cpt/selo.php:9
+msgid "View itens"
+msgstr "Visualizar itens"
+
+#: cpt/selo.php:39
+msgid "Ribbon Name"
+msgstr "Nome do selo"
+
+#: pedigree/admin/page.php:65 pedigree/admin/page.php:111
+msgid "Select"
+msgstr "Selecione"
+
+#: pedigree/admin/page.php:79
+msgid "This animal"
+msgstr "Este animal"
+
+#: pedigree/functions.php:113 pedigree/functions.php:114
+msgid "See genealogy"
+msgstr "Veja a genealogia"
+
+#~ msgid "Video Url 1"
+#~ msgstr "Url do Vídeo 1"
+
+#~ msgid "Video URL 2"
+#~ msgstr "Url do Vídeo 2"
+
+#~ msgid "Awards Fields"
+#~ msgstr "Campos de Prêmios"
+
+#~ msgid "Awards"
+#~ msgstr "Prêmios"
+
+#~ msgid "Location"
+#~ msgstr "Localização"
+
+#~ msgid "Gir Fields"
+#~ msgstr "Campos de Gir"
+
+#~ msgid "Internal Title"
+#~ msgstr "Título interno"
+
+#~ msgid "Photo Galleries"
+#~ msgstr "Galeria de Fotos"
+
+#~ msgid "Nelore Fields"
+#~ msgstr "Campos de Nelore"
+
+#~ msgid "Bull"
+#~ msgstr "Touro"
+
+#~ msgid "Cow"
+#~ msgstr "Vaca"
+
+#~ msgid "AMARELA"
+#~ msgstr "AMARELA"
+
+#~ msgid "AMARELA ALARANJADA"
+#~ msgstr "AMARELA ALARANJADA"
+
+#~ msgid "AMARELA CHITADA"
+#~ msgstr "AMARELA CHITADA"
+
+#~ msgid "AMARELA GARGANTILHA"
+#~ msgstr "AMARELA GARGANTILHA"
+
+#~ msgid "AMARELA MALHADA"
+#~ msgstr "AMARELA MALHADA"
+
+#~ msgid "ARACA"
+#~ msgstr "ARACA"
+
+#~ msgid "BRANCA"
+#~ msgstr "BRANCA"
+
+#~ msgid "BRANCA MALHADA"
+#~ msgstr "BRANCA MALHADA"
+
+#~ msgid "BRANCO PINTADO"
+#~ msgstr "BRANCO PINTADO"
+
+#~ msgid "CASTANHA"
+#~ msgstr "CASTANHA"
+
+#~ msgid "CASTANHO"
+#~ msgstr "CASTANHO"
+
+#~ msgid "CASTANHO PINTADO"
+#~ msgstr "CASTANHO PINTADO"
+
+#~ msgid "CHITA CLARA"
+#~ msgstr "CHITA CLARA"
+
+#~ msgid "CHITADA DE AMARELO"
+#~ msgstr "CHITADA DE AMARELO"
+
+#~ msgid "CHITADA DE CINZA"
+#~ msgstr "CHITADA DE CINZA"
+
+#~ msgid "CHITADA DE VERMELHO"
+#~ msgstr "CHITADA DE VERMELHO"
+
+#~ msgid "CINZA"
+#~ msgstr "CINZA"
+
+#~ msgid "CINZA AMARELA"
+#~ msgstr "CINZA AMARELA"
+
+#~ msgid "CINZA AVERMELHADA"
+#~ msgstr "CINZA AVERMELHADA"
+
+#~ msgid "CINZA CHITADA"
+#~ msgstr "CINZA CHITADA"
+
+#~ msgid "CINZA CLARA"
+#~ msgstr "CINZA CLARA"
+
+#~ msgid "CINZA ESCURA"
+#~ msgstr "CINZA ESCURA"
+
+#~ msgid "CINZA GARGANTILHA"
+#~ msgstr "CINZA GARGANTILHA"
+
+#~ msgid "CINZA PINTADO"
+#~ msgstr "CINZA PINTADO"
+
+#~ msgid "CINZA VERMELHA"
+#~ msgstr "CINZA VERMELHA"
+
+#~ msgid "MANCHADA"
+#~ msgstr "MANCHADA"
+
+#~ msgid "MOURA CLARA"
+#~ msgstr "MOURA CLARA"
+
+#~ msgid "MOURA DE VERMELHO"
+#~ msgstr "MOURA DE VERMELHO"
+
+#~ msgid "MOURA ESCURA"
+#~ msgstr "MOURA ESCURA"
+
+#~ msgid "NAO CADASTRADA"
+#~ msgstr "NAO CADASTRADA"
+
+#~ msgid "NAO INFORMADA"
+#~ msgstr "NAO INFORMADA"
+
+#~ msgid "PINTADA DE AMARELO"
+#~ msgstr "PINTADA DE AMARELO"
+
+#~ msgid "PINTADA DE PRETO"
+#~ msgstr "PINTADA DE PRETO"
+
+#~ msgid "PINTADA DE VERMELHO"
+#~ msgstr "PINTADA DE VERMELHO"
+
+#~ msgid "PINTADO DE PRETO"
+#~ msgstr "PINTADO DE PRETO"
+
+#~ msgid "PINTADO DE VERMELHO"
+#~ msgstr "PINTADO DE VERMELHO"
+
+#~ msgid "PRETA"
+#~ msgstr "PRETA"
+
+#~ msgid "PRETA MALHADA"
+#~ msgstr "PRETA MALHADA"
+
+#~ msgid "PRETO PINTADO"
+#~ msgstr "PRETO PINTADO"
+
+#~ msgid "ROSILHA CLARA"
+#~ msgstr "ROSILHA CLARA"
+
+#~ msgid "VERMELHA"
+#~ msgstr "VERMELHA"
+
+#~ msgid "VERMELHA CHITADA"
+#~ msgstr "VERMELHA CHITADA"
+
+#~ msgid "VERMELHA GARGANTILHA"
+#~ msgstr "VERMELHA GARGANTILHA"
+
+#~ msgid "VERMELHA MALHADA"
+#~ msgstr "VERMELHA MALHADA"
+
+#~ msgid "Breed"
+#~ msgstr "Raça"
+
+#~ msgid "BRAHMAN"
+#~ msgstr "BRAHMAN"
+
+#~ msgid "BRAHMAN MOCHA"
+#~ msgstr "BRAHMAN MOCHA"
+
+#~ msgid "BRAHMAN X GUZERA"
+#~ msgstr "BRAHMAN X GUZERA"
+
+#~ msgid "BRAHMAN X NELORE"
+#~ msgstr "BRAHMAN X NELORE"
+
+#~ msgid "CRUZADO FEMEA"
+#~ msgstr "CRUZADO FEMEA"
+
+#~ msgid "CRUZADO MACHO"
+#~ msgstr "CRUZADO MACHO"
+
+#~ msgid "GIR"
+#~ msgstr "GIR"
+
+#~ msgid "GIR MOCHA"
+#~ msgstr "GIR MOCHA"
+
+#~ msgid "GUZ X HOL(GUZOLANDO)"
+#~ msgstr "GUZ X HOL(GUZOLANDO)"
+
+#~ msgid "GUZERA"
+#~ msgstr "GUZERA"
+
+#~ msgid "HOLANDES"
+#~ msgstr "HOLANDES"
+
+#~ msgid "HOLANDES X BRAHMAN"
+#~ msgstr "HOLANDES X BRAHMAN"
+
+#~ msgid "NELORE"
+#~ msgstr "NELORE"
+
+#~ msgid "NELORE IMPORTADO"
+#~ msgstr "NELORE IMPORTADO"
+
+#~ msgid "NELORE MOCHA"
+#~ msgstr "NELORE MOCHA"
+
+#~ msgid "NELORE X GUZERA"
+#~ msgstr "NELORE X GUZERA"
+
+#~ msgid "TABAPUA"
+#~ msgstr "TABAPUA"
+
+#~ msgid "TABAPUA X NELORE"
+#~ msgstr "TABAPUA X NELORE"
+
+#~ msgid "Record Number"
+#~ msgstr "Número de Registro"
+
+#~ msgid "MGT"
+#~ msgstr "MGT"
+
+#~ msgid "TOP"
+#~ msgstr "TOP"
+
+#~ msgid "Animal Text - PT-BR"
+#~ msgstr "Texto sobre o Animal - PT-BR"
+
+#~ msgid "Animal Text - English"
+#~ msgstr "Texto sobre o Animal - Inglês"
+
+#~ msgid "TABLES"
+#~ msgstr "TABELAS"
+
+#~ msgid "CLARIFIDE"
+#~ msgstr "CLARIFIDE"
+
+#~ msgid "ANCP"
+#~ msgstr "ANCP"
+
+#~ msgid "Limit of 04 images"
+#~ msgstr "Limite de 04 imagens"
+
+#~ msgid "SALE"
+#~ msgstr "VENDA"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Semen"
+#~ msgstr "Sêmen"
+
+#~ msgid "Quantity"
+#~ msgstr "Quantidade"
+
+#~ msgid "Price"
+#~ msgstr "Valor"
+
+#~ msgid "Currency"
+#~ msgstr "Moeda"
+
+#~ msgid "Real"
+#~ msgstr "Real"
+
+#~ msgid "Dollar"
+#~ msgstr "Dollar"
+
+#~ msgid "Payment Method"
+#~ msgstr "Método de Pagamento"
+
+#~ msgid "In Cash"
+#~ msgstr "Em dinheiro"
+
+#~ msgid "Postdated check"
+#~ msgstr "Cheque pré-datado"
+
+#~ msgid "Bank Slip"
+#~ msgstr "Boleto Bancário"
+
+#~ msgid "Credit Card"
+#~ msgstr "Cartão de Crédito"
+
+#~ msgid "Sale Description"
+#~ msgstr "Descrição da venda"
+
+#~ msgid "Sale Term"
+#~ msgstr "Termos da venda"
+
+#~ msgid "Genealogy Image"
+#~ msgstr "Imagem da genealogia"
+
+#~ msgid "Show these nelore informations"
+#~ msgstr "Exibir estas informações de nelore"
+
+#~ msgid "Show nelore info"
+#~ msgstr "Exibir estas informações"
+
+#~ msgid "Nelore information"
+#~ msgstr "Informações de Nelore"
+
+#~ msgid "Foal in Uterus"
+#~ msgstr "Barriga"
+
+#~ msgid "Stud Service (fresh semen)"
+#~ msgstr "Cobertura (sêmen à fresco)"
+
+#~ msgid "Stud Service (frozen semen)"
+#~ msgstr "Cobertura (sêmen congelado)"
+
+#~ msgid "Stud Service (natural mount)"
+#~ msgstr "Cobertura (monta natural)"
+
+#~ msgid "Egg"
+#~ msgstr "Ôvulo"
+
+#~ msgid "Embryo"
+#~ msgstr "Embrião"
+
+#~ msgid "Percentage"
+#~ msgstr "Porcentagem"
+
+#~ msgid "Exchange"
+#~ msgstr "Troca"
+
+#~ msgid "Show these horses informations"
+#~ msgstr "Exibir estas informações do cavalo"
+
+#~ msgid "Show horse info"
+#~ msgstr "Informações a exibir"
+
+#~ msgid "Image (Left) - PT-BR"
+#~ msgstr "Imagem (Esquerda) - PT-BR"
+
+#~ msgid "Image (Right) - PT-BR"
+#~ msgstr "Imagem (Direita) - PT-BR"
+
+#~ msgid "Image (Left) - English"
+#~ msgstr "Imagem (Esquerda) - Inglês"
+
+#~ msgid "Image (Right) - English"
+#~ msgstr "Imagem (Direita) - Inglês"
+
+#~ msgid "Show on these categories (Horses MM)"
+#~ msgstr "Exibir nestas categorias (Cavalos MM)"
+
+#~ msgid "Show on these categories (Nelores)"
+#~ msgstr "Exibir nestas categorias (Nelores)"
+
+#~ msgid "Home Fields"
+#~ msgstr "Campos da Home"
+
+#~ msgid "BANNERS"
+#~ msgstr "BANNERS"
+
+#~ msgid "Slides"
+#~ msgstr "Slides"
+
+#~ msgid "Image"
+#~ msgstr "Imagem"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Url"
+#~ msgstr "Url"
+
+#~ msgid "Open on new tab?"
+#~ msgstr "Abrir em nova aba?"
+
+#~ msgid "BLOCKS"
+#~ msgstr "CHAMADAS"
+
+#~ msgid "Content"
+#~ msgstr "Conteúdo"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Excerpt"
+#~ msgstr "Resumo"
+
+#~ msgid "Featured Image"
+#~ msgstr "Imagem de Destaque"
+
+#~ msgid "Video"
+#~ msgstr "Vídeo"
+
+#~ msgid "Text \"Our Horses\""
+#~ msgstr "Texto \"Nossos Cavalos\""
+
+#~ msgid "FOOTER LINKS"
+#~ msgstr "LINKS DO RODAPÉ"
+
+#~ msgid "Link Text"
+#~ msgstr "Texto do Link"
+
+#~ msgid "HIGHLIGHT"
+#~ msgstr "DESTAQUE"
+
+#~ msgid "Button Text"
+#~ msgstr "Texto do botão"
+
+#~ msgid "Small Image 1"
+#~ msgstr "Imagem Pequena 1"
+
+#~ msgid "Small image 2"
+#~ msgstr "Imagem Pequena 2"
+
+#~ msgid "Big Image"
+#~ msgstr "Imagem Grande"
+
+#~ msgid "View awards"
+#~ msgstr "Visualizar prêmios"
+
+#~ msgid "Gir"
+#~ msgstr "Gir"
+
+#~ msgid "Nelore"
+#~ msgstr "Nelore"
+
+#~ msgid "View nelores"
+#~ msgstr "Visualizar nelores"
+
+#~ msgid "Nelores categories"
+#~ msgstr "Categorias de nelore"
+
+#~ msgid "Nelores category "
+#~ msgstr "Categoria de nelore"
+
+#~ msgid "Association No."
+#~ msgstr "Registro na Associação"
+
+#~ msgid "Horses MM"
+#~ msgstr "Cavalos MM"
+
+#~ msgid "Horse MM"
+#~ msgstr "Cavalo MM"
+
+#~ msgid "Limit of 4 images"
+#~ msgstr "Limite de 4 imagens"
+
+#~ msgid "More Videos"
+#~ msgstr "Mais vídeos"
+
+#~ msgid "No. Association"
+#~ msgstr "Número de registro na Associação"
+
+#~ msgid "Image - PT-BR"
+#~ msgstr "Imagem - PT-BR"
+
+#~ msgid "Image - English"
+#~ msgstr "Imagem - Inglês"
+
+#~ msgid "TEXT"
+#~ msgstr "TEXTO"
+
+#~ msgid "Events Fields"
+#~ msgstr "Campos de Eventos"
+
+#~ msgid "DISPLAY"
+#~ msgstr "EXIBIR"
+
+#~ msgid "Show these fields"
+#~ msgstr "Exibir estes campos"
+
+#~ msgid "Stallion"
+#~ msgstr "Garanhão"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Show these field"
+#~ msgstr "Exibir estes campos"
+
+#~ msgid "Tables"
+#~ msgstr "Tabelas"
+
+#~ msgid "Semem"
+#~ msgstr "Sêmen"
+
+#~ msgid "Show on these categories"
+#~ msgstr "Exibir nestas categorias"
+
+#~ msgid "Horse Text - PT-BR"
+#~ msgstr "Texto sobre o cavalo - PT-BR"
+
+#~ msgid "Horse Text - English"
+#~ msgstr "Texto sobre o cavalo - Inglês"
+
+#~ msgid "Use"
+#~ msgstr "Uso"
+
+#~ msgid "Description - Portuguese"
+#~ msgstr "Descrição - Português"
+
+#~ msgid "Description - English"
+#~ msgstr "Descrição - Inglês"
+
+#~ msgid "Owner percentage of ownership/shares"
+#~ msgstr "Porcentagem do proprietário"
+
+#~ msgid "Only Youtube video."
+#~ msgstr "Somente vídeos do Youtube."
+
+#~ msgid "Clippings"
+#~ msgstr "Clippings"
+
+#~ msgid "Clipping"
+#~ msgstr "Clipping"
+
+#~ msgid "View clippings"
+#~ msgstr "Visualizar clippings"
+
+#~ msgid "Clippings categories"
+#~ msgstr "Categorias de clipping"
+
+#~ msgid "Clipping category "
+#~ msgstr "Categoria de clipping"
+
+#~ msgid "Owner(s)"
+#~ msgstr "Proprietário(s)"
+
+#~ msgid "OWNER"
+#~ msgstr "PROPRIETÁRIO"
+
+#~ msgid "% de ownership/shares"
+#~ msgstr "% de participação/cotas"
+
+#~ msgid "Height (inchs)"
+#~ msgstr "Altura (metros)"
+
+#~ msgid "Share"
+#~ msgstr "Condomínio"
+
+#~ msgid "Horse Name"
+#~ msgstr "Nome do cavalo"
+
+#~ msgid "Recipient"
+#~ msgstr "Receptora"
+
+#~ msgid "Donor"
+#~ msgstr "Doadora"
+
+#~ msgid "Select a category"
+#~ msgstr "Seleciona a Categoria"
+
+#~ msgid "Sale percentage"
+#~ msgstr "Animal ou Parte"
+
+#~ msgid "HORSE INFO"
+#~ msgstr "INFO DO CAVALO"
+
+#~ msgid "MIDIA"
+#~ msgstr "MÍDIAS"
+
+#~ msgid "SALES DATA"
+#~ msgstr "DADOS DA VENDA"
+
+#~ msgid "BREEDER"
+#~ msgstr "CRIADOR"
+
+#~ msgid "OWNER(S)"
+#~ msgstr "PROPRIETÁRIO(S)"
+
+#~ msgid "Potro"
+#~ msgstr "Colt"
+
+#~ msgid "Garanhão"
+#~ msgstr "Stallion"
+
+#~ msgid "Potra"
+#~ msgstr "Filly"
+
+#~ msgid "Égua"
+#~ msgstr "Mare"
+
+#~ msgid "Castrado"
+#~ msgstr "Gelding"
+
+#~ msgid "No. ABCCMM"
+#~ msgstr "No. ABCCMM"
+
+#~ msgid "Stud Service"
+#~ msgstr "Receptora"
+
+#~ msgid "Share (fresh semen)"
+#~ msgstr "Condomínio (semêm à fresco)"
+
+#~ msgid "Share (frozen semen)"
+#~ msgstr "Cobertura (sêmen congelado)"
+
+#~ msgid "Share (natural mount)"
+#~ msgstr "Cobertura (monta natural)"
+
+#~ msgid "Height (in meters)"
+#~ msgstr "Altura (em metros)"
+
+#~ msgid "Genealogy"
+#~ msgstr "Genealogia"

@@ -1,0 +1,532 @@
+.container_pedigree{
+    height: 630px;
+    clear: both;
+    overflow: none;
+    position: relative;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.container_pedigree .linha{
+    height: 50%;
+    position: relative;
+    float: left;
+}
+
+.container_pedigree .linha-0{
+    height: 100% !important;
+    margin-left: 0px !important;
+}
+
+.sexo{
+    text-indent: -9999px;
+}
+
+.btn-default a{
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 50px;
+    font-family: "roboto slab";
+    font-weight: normal;
+}
+
+.container_pedigree .linha .cavalo{
+    position: absolute;
+    left: 0;
+    background-color: #f8f8f8;
+    border: 1px solid #e1e1e1;
+    width: 100%;
+    cursor: pointer;
+}
+
+.cavalo .nome{
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    color: #555555;
+    font-weight: 500;
+}
+
+.container_pedigree .linha-1 .cavalo {
+    top: 50%;
+}
+
+.icones a{
+    display: inline-block;
+    width: 15px;
+    height: 12px;
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    margin-right: 7px;
+}
+
+.icones li{
+    margin-right: 7px;
+}
+
+.icones li:last-child{
+    margin-right: 0;
+}
+
+.icon-thumb a{
+    background-image: url("../images/fotos.png")
+}
+
+.cavalo-principal .icones{
+    bottom: 5px !important;
+    line-height: 0;
+}
+
+.cavalo-principal .dados{
+    padding-top: 7px !important;
+}
+
+.cavalo-principal .sexo{
+    top: 14px !important;
+    right: 12px !important;
+}
+
+.cavalo-principal .nome{
+    color: #FFF !important;
+    height: 40px !important;
+}
+
+.cavalo-principal .icon-thumb a{
+    background-image: url("../images/fotos_br.png")
+}
+
+.icon-text a{
+    background-image: url("../images/texto.png")
+}
+
+.cavalo-principal .icon-text a{
+    background-image: url("../images/texto_br.png")
+}
+
+.icon-arvore a{
+    background-image: url("../images/arvore.png")
+}
+
+.cavalo-principal .icon-arvore a{
+    background-image: url("../images/arvore_br.png")
+}
+
+.cavalo-principal .sexo-M{
+    background-image: url("../images/masculino_br.png")
+}
+
+.sexo-M{
+    background-image: url("../images/masculino.png")
+}
+
+.cavalo-principal .sexo-F{
+    background-image: url("../images/feminino_br.png")
+}
+
+.sexo-F{
+    background-image: url("../images/feminino.png")
+}
+
+.container_pedigree .cavalo .imagem{
+    height: 100%;
+    width: 40%;
+    background-color: #CCC;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+}
+
+.container_pedigree .cavalo .imagem.no-photo{
+    background-size: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-color: #d3d3d3;
+}
+
+.container_pedigree .cavalo .dados{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    float: left;
+    padding: 3px 6px 3px 45%;
+    position: relative;
+}
+
+.container_pedigree .cavalo .ano{
+    margin: 0;
+    line-height: 1em;
+    float: left;
+    clear: both;
+}
+
+.container_pedigree .cavalo .nome{
+    text-align: left;
+    margin: 0;
+    float: left;
+    clear: both;
+    line-height: 1em;
+    width: 80%;
+    height: 30px;
+}
+
+.container_pedigree .cavalo .icones{
+    position: absolute;
+    bottom: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container_pedigree .cavalo .sexo{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 18px;
+    height: 18px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container_pedigree .cavalo .box{
+    display: none;
+}
+
+.container_pedigree .cavalo .icones li{
+    float: left;
+    line-height: 15px;
+}
+
+.container_pedigree .linha-0 .cavalo {
+    height: 80px;
+    top: 50%;
+    margin-top: -40px;
+}
+
+.container_pedigree .linha-1 .cavalo .nome {
+    height: 40px;
+}
+
+.container_pedigree .linha-2 .cavalo .nome {
+    height: 30px;
+}
+
+.container_pedigree .cavalo-principal{
+    background-color: #555555 !important;
+    color: white;
+    cursor: auto !important;
+}
+
+.container_pedigree .seta{
+    width: 25px;
+    position: absolute;
+    height: 50%;
+    top: 25%;
+    right: -15px;
+}
+
+.container_pedigree .seta > div{
+    background-color: #555555;
+    position: absolute;
+}
+
+.container_pedigree .seta-1{
+    width: 4px;
+    height: 2px;
+    top: 50%;
+    margin-top: 1px;
+    right: 7px;
+}
+
+.container_pedigree .seta-2{
+    width: 2px;
+    height: 100%;
+    right: 5px;
+    top: 0;
+}
+
+.container_pedigree .seta-3{
+    width: 4px;
+    height: 2px;
+    right: 1px;
+    top: 0;
+}
+
+.container_pedigree .seta-4{
+    width: 4px;
+    height: 2px;
+    right: 1px;
+    bottom: 0;
+}
+
+.linha-4 .cavalo .sexo{
+    width: 14px;
+    height: 14px;
+    right: 6px !important;
+    top: 3px;
+}
+
+@media (max-width: 992px) {
+    .container_pedigree .linha{
+        margin-left: 240px;
+		width: 220px;
+    }
+
+    .container_pedigree .linha-0 .cavalo {
+        height: 80px;
+        margin-top: -40px;
+    }
+    .container_pedigree .linha-0 .cavalo .nome{
+        font-size: 14px;
+    }
+    .container_pedigree .linha-0 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-1 .cavalo {
+        height: 70px;
+        margin-top: -35px;
+    }
+    .container_pedigree .linha-1 .cavalo .nome{
+        font-size: 13px;
+    }
+    .container_pedigree .linha-1 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-2 .cavalo {
+        height: 60px;
+        margin-top: -30px;
+    }
+    .container_pedigree .linha-2 .cavalo .nome{
+        font-size: 13px;
+    }
+    .container_pedigree .linha-2 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-4 .cavalo {
+        height: 35px;
+        margin-top: -17px;
+    }
+    .container_pedigree .linha-4 .cavalo .dados {
+        padding: 3px 6px;
+    }
+    .container_pedigree .linha-4 .cavalo .imagem{
+        display: none;
+    }
+    .container_pedigree .linha-4 .cavalo .nome{
+        font-size: 13px;
+        line-height: 29px;
+        height: 29px;
+        width: 60%;
+    }
+    .container_pedigree .linha-4 .cavalo .ano{
+        display: none;
+    }
+
+    .container_pedigree .linha-4 .cavalo .icones{
+        right: 30px;
+        bottom: 0px;
+        top: 11px;
+    }
+    .container_pedigree .linha-4 .cavalo .sexo{
+        right: 5px;
+        bottom: 0px;
+        top: 10px;
+    }
+
+}
+
+@media (min-width: 992px) {
+
+    .container_pedigree .linha{
+        margin-left: 240px;
+		width: 220px;
+    }
+
+    .container_pedigree .linha-0 .cavalo {
+        height: 80px;
+        margin-top: -40px;
+    }
+    .container_pedigree .linha-0 .cavalo .nome{
+        font-size: 14px;
+    }
+    .container_pedigree .linha-0 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-1 .cavalo {
+        height: 70px;
+        margin-top: -35px;
+    }
+    .container_pedigree .linha-1 .cavalo .nome{
+        font-size: 13px;
+    }
+    .container_pedigree .linha-1 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-2 .cavalo {
+        height: 60px;
+        margin-top: -30px;
+    }
+    .container_pedigree .linha-2 .cavalo .nome{
+        font-size: 13px;
+    }
+    .container_pedigree .linha-2 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-4 .cavalo {
+        height: 22px;
+        margin-top: -10px;
+    }
+    .container_pedigree .linha-4 .cavalo .dados {
+        padding: 3px 6px;
+    }
+    .container_pedigree .linha-4 .cavalo .imagem{
+        display: none;
+    }
+    .container_pedigree .linha-4 .cavalo .nome{
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .container_pedigree .linha-4 .cavalo .ano{
+        display: none;
+    }
+
+    .container_pedigree .linha-4 .cavalo .icones{
+        bottom: 3px;
+        right: 16px;
+    }
+    .container_pedigree .linha-4 .cavalo .sexo{
+        bottom: 5px;
+        right: 5px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+    .container_pedigree .linha{
+        margin-left: 283px;
+		width: 260px;
+    }
+
+    .container_pedigree .linha-0 .cavalo {
+        height: 80px;
+        margin-top: -40px;
+    }
+    .container_pedigree .linha-0 .cavalo .nome{
+        font-size: 16px;
+    }
+    .container_pedigree .linha-0 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-1 .cavalo {
+        height: 80px;
+        margin-top: -40px;
+    }
+    .container_pedigree .linha-1 .cavalo .nome{
+        font-size: 13px;
+    }
+    .container_pedigree .linha-1 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-2 .cavalo {
+        height: 60px;
+        margin-top: -30px;
+    }
+    .container_pedigree .linha-2 .cavalo .nome{
+        font-size: 13px;
+    }
+    .container_pedigree .linha-2 .cavalo .ano{
+        font-size: 12px;
+    }
+
+    .container_pedigree .linha-4 .cavalo {
+        height: 22px;
+        margin-top: -10px;
+    }
+    .container_pedigree .linha-4 .cavalo .dados {
+        padding: 0 0 0 5px !important;
+        line-height: 27px;
+        text-align: left;
+    }
+    .container_pedigree .linha-4 .cavalo .imagem{
+        display: none;
+    }
+    .container_pedigree .linha-4 .cavalo .nome{
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .container_pedigree .linha-4 .cavalo .ano{
+        display: none;
+    }
+
+    .container_pedigree .linha-4 .cavalo .icones{
+        right: 16px;
+        bottom: auto !important;
+        top: 4px;
+        line-height: 1em;
+    }
+    .container_pedigree .linha-4 .cavalo .sexo{
+        right: 5px;
+    }
+
+}
+
+.bolinhas-container{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.bolinhas-container i{
+    background-color: #CCCCCC;
+    padding: 5px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.bolinhas-container i.ativo {
+    background-color: #555555;
+}
+
+.fantasma{
+    opacity: 0.25;
+    cursor: auto !important;
+}
+
+.fantasma-linha{
+    opacity: 0.15;
+    cursor: auto !important;
+}
+
+.box{
+    padding: 20px 0;
+}
+
+.box .imagem{
+    max-height: 250px;
+    width: 100%;
+    text-align: center;
+}
+
+.box .imagem img{
+    max-height: 250px;
+    max-width: 100%;
+}
+
+.container_pedigree .linha .cavalo.sem-pai{
+    cursor: auto;
+}

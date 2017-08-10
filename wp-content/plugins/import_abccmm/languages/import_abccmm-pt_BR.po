@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Import ABCCMM\n"
+"POT-Creation-Date: 2015-08-09 20:51-0300\n"
+"PO-Revision-Date: 2015-08-09 20:54-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: config.php:13
+msgid "ABCCMM Data Sheet Importation"
+msgstr "Importador de tabelas ABCCMM"
+
+#: page.php:10
+msgid "Import Horses"
+msgstr "Importar Cavalos"
+
+#: page.php:13 page.php:21
+msgid "Import"
+msgstr "Importar"
+
+#: page.php:18
+msgid "Import Awards"
+msgstr "Impotar Premiações"
+
+#: page.php:30 page.php:49
+msgid "Total Imported"
+msgstr "Total importados"
+
+#: page.php:34 page.php:53
+msgid "Total Updated"
+msgstr "Total atualizados"
+
+#: page.php:38 page.php:57
+msgid "Total Existent"
+msgstr "Total existentes"
